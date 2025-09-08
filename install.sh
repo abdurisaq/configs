@@ -1,6 +1,6 @@
 !/usr/bin/env bash
 
-NEOVIM_VERSION="v0.10.1"
+NEOVIM_VERSION="v0.11.4"
 NEOVIM_URL="https://github.com/neovim/neovim/releases/download/${NEOVIM_VERSION}/nvim-linux64.tar.gz"
 INSTALL_DIR="/usr/local/nvim-linux64"
 
